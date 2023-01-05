@@ -1,0 +1,4 @@
+results/*
+prompts/*
+topics.json
+*.log
